@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[195],{8988:e=>{e.exports=JSON.parse('{"label":"rpg","permalink":"/blog/tags/rpg","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
